@@ -16,10 +16,13 @@ Integrantes :
   
   Dylan Stef Torres Walker
       2018135751
+      
   Heyler Johel Mora Calderon
       2018109586
+      
   Sebastian Campos Zuñiga
       2016140230
+      
   Jose Pablo Espinoza Lopez
       2015163223
       
